@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="HyperGame">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Libraries/HyperGame/out/artifacts/HyperGame_jar/HyperGame.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Libraries/HyperGame/out/artifacts/HyperGame_jar/HyperGame.jar!/" />
+    </SOURCES>
+  </library>
+</component>
